@@ -1,0 +1,2 @@
+It is highly recommended to move the root directory to the desktop. If you incounter any bugs or gliches, 
+please comment it down at www.'website'.com
